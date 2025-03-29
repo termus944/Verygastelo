@@ -28,11 +28,11 @@ echo $blue "|| $green 3. Sadap WhatsApp No XL / Axis     $blue ||"
 echo $blue "|| $green 4. Sadap WhatsApp No 3(Three)      $blue ||"
 echo $blue "|| $green 0. Exit Sadap WhatsApp             $blue ||"
 echo $blue "====================================================="
-echo $blue"╭──[Masukkan Pilihan Anda]>"
+echo $blue"╭──[sadap WhatsApp ]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 if [ $MrTamfanX = 1 ] || [ $MrTamfanX = 01 ]
 then
-echo $blue"╭──[Silahkan Masukan Nomernya]>"
+echo $blue"╭──[+6287833142580]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
@@ -64,7 +64,7 @@ fi
 
 if [ $MrTamfanX = 2 ] || [ $MrTamfanX = 02 ]
 then
-echo $blue"╭──[Silahkan Masukan Nomernya]>"
+echo $blue"╭──[+6287833142580]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
@@ -96,7 +96,7 @@ fi
 
 if [ $MrTamfanX = 3 ] || [ $MrTamfanX = 03 ]
 then
-echo $blue"╭──[Silahkan Masukan Nomernya]>"
+echo $blue"╭──[+6287833142580]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
@@ -128,7 +128,7 @@ fi
 
 if [ $MrTamfanX = 4 ] || [ $MrTamfanX = 04 ]
 then
-echo $blue"╭──[Silahkan Masukan Nomernya]>"
+echo $blue"╭──[+6287833142580]>"
 read -p"╰───────root@MrTamfanX=•>" MrTamfanX;
 sleep 2
 echo $red "[+]Scaning...."
